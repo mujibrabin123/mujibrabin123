@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **software engineering**
 
-- 👨‍💻 All of my projects are available at [in my repository](in my repository)
+- 👨‍💻 All of my projects are available at **my repository**
 
-- 💬 Ask me about **machine learning**
+- 💬 Ask me about **machine learning** and **function as service**
 
 - 📫 How to reach me **mujib.rabin@gmail.com**
 
